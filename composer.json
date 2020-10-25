@@ -1,0 +1,17 @@
+{
+    "name": "pantheion/controller",
+    "description": "Controller package",
+    "authors": [
+        {
+            "name": "Pedro Miguel",
+            "email": "pedro.aos19@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pantheion\\Controller\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
